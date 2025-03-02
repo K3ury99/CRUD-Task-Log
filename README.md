@@ -1,16 +1,34 @@
-# practica_7
+# CRUD-Task-Log
+> [!NOTE]  
+> A web application that allows us to add, edit and delete tasks while we can see statistics in real time.
 
-A new Flutter project.
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/99743daa-1062-43f4-973d-3aa52c93ed7d" width="49%"></img>   
+  <img src="https://github.com/user-attachments/assets/2e10a89f-c4c0-4f40-9aaf-54019ef4e573" width="49%"></img> 
+</div>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# 🗝 How to use it  
+You just have to download the zip file that is at the beginning of this repository, or clone the repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "flutter run -s Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
-A few resources to get you started if this is your first Flutter project:
+# 🎈 Installation  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/K3ury99/CRUD-Task-Log
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# ✨ Features
+  - Add Tasks to the list
+  - Edit Tasks from the list
+  - Delete Tasks from the list
+  - Real-time statistics
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🕹 Technologies  
+- **Frontend**: Flutter  
+
+# 🌠 Final Notes
+Thank you for visiting this project!🌌
+
+## 📔 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
