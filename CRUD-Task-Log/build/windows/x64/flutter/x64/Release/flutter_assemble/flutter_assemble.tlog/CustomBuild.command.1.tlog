@@ -1,0 +1,28 @@
+^C:\USERS\KEURY\DESKTOP\CRUD-TASK-LOG\CRUD-TASK-LOG\BUILD\WINDOWS\X64\CMAKEFILES\2AE152BFB7431783A0ED5A8A5898974B\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\Keury\Desktop\CRUD-Task-Log\CRUD-Task-Log FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Keury\Desktop\CRUD-Task-Log\CRUD-Task-Log\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Keury\Desktop\CRUD-Task-Log\CRUD-Task-Log FLUTTER_TARGET=lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true PACKAGE_CONFIG=C:\Users\Keury\Desktop\CRUD-Task-Log\CRUD-Task-Log\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KEURY\DESKTOP\CRUD-TASK-LOG\CRUD-TASK-LOG\BUILD\WINDOWS\X64\CMAKEFILES\6D166ACF4D5E95A6B47FC76608A9B1C9\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KEURY\DESKTOP\CRUD-TASK-LOG\CRUD-TASK-LOG\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Keury/Desktop/CRUD-Task-Log/CRUD-Task-Log/windows -BC:/Users/Keury/Desktop/CRUD-Task-Log/CRUD-Task-Log/build/windows/x64 --check-stamp-file C:/Users/Keury/Desktop/CRUD-Task-Log/CRUD-Task-Log/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
