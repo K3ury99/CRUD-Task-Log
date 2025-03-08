@@ -13,10 +13,10 @@
 You just have to download the zip file that is at the beginning of this repository, or clone the repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "flutter run -s Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
 # 🎈 Installation  
-1. Clone the repository:  
+Clone the repository:  
    ```bash  
    git clone https://github.com/K3ury99/CRUD-Task-Log
-
+   ```
 # 🎯 Usage
 To run the app, use the following command:
 ```bash
