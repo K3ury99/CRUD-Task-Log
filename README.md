@@ -24,6 +24,27 @@ flutter run -d Edge
 ```
 Once launched you will be able to add your tasks, delete them and edit them, it has persistence so don't worry if you reload the page!
 
+# 🐱‍👤 Contributing
+1. **Fork the repo**
+- **Create a new branch**
+   
+```bash
+   git checkout -b feature-branch
+```
+- **Add Everything**
+```bash
+  git add .
+```
+- **Commit changes**
+```bash
+  git commit -am 'Add new feature'
+```
+- **Pull & push to the origin**
+```bash
+  git pull
+  git push
+```
+
 # ✨ Features
 ✅ Add Tasks to the list  
 ✅ Edit Tasks from the list  
