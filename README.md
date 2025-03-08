@@ -25,10 +25,10 @@ flutter run -d Edge
 Once launched you will be able to add your tasks, delete them and edit them, it has persistence so don't worry if you reload the page!
 
 # ✨ Features
-  - Add Tasks to the list
-  - Edit Tasks from the list
-  - Delete Tasks from the list
-  - Real-time statistics
+✅ Add Tasks to the list  
+✅ Edit Tasks from the list  
+✅ Delete Tasks from the list  
+✅ Real-time statistics  
 
 # 🕹 Technologies  
 - **Frontend**: Flutter  
