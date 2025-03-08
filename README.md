@@ -17,6 +17,13 @@ You just have to download the zip file that is at the beginning of this reposito
    ```bash  
    git clone https://github.com/K3ury99/CRUD-Task-Log
 
+# 🎯 Usage
+To run the app, use the following command:
+```bash
+flutter run
+```
+Once launched you will be able to add your tasks, delete them and edit them, it has persistence so don't worry if you reload the page!
+
 # ✨ Features
   - Add Tasks to the list
   - Edit Tasks from the list
