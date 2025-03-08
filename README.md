@@ -20,7 +20,7 @@ You just have to download the zip file that is at the beginning of this reposito
 # 🎯 Usage
 To run the app, use the following command:
 ```bash
-flutter run
+flutter run -d Edge
 ```
 Once launched you will be able to add your tasks, delete them and edit them, it has persistence so don't worry if you reload the page!
 
