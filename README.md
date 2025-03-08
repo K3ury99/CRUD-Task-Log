@@ -31,15 +31,15 @@ Once launched you will be able to add your tasks, delete them and edit them, it 
 ```bash
    git checkout -b feature-branch
 ```
-- **Add Everything**
+2. **Add Everything**
 ```bash
   git add .
 ```
-- **Commit changes**
+3. **Commit changes**
 ```bash
   git commit -am 'Add new feature'
 ```
-- **Pull & push to the origin**
+4. **Pull & push to the origin**
 ```bash
   git pull
   git push
