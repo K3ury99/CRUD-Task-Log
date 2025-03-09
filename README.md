@@ -12,6 +12,12 @@
 # 🗝 How to use it  
 You just have to download the zip file that is at the beginning of this repository, or clone the repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "flutter run -s Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
+# ✨ Features
+✅ Add Tasks to the list  
+✅ Edit Tasks from the list  
+✅ Delete Tasks from the list  
+✅ Real-time statistics 
+
 # 🎈 Installation  
 Clone the repository:  
    ```bash  
@@ -44,12 +50,6 @@ Once launched you will be able to add your tasks, delete them and edit them, it 
   git pull
   git push
 ```
-
-# ✨ Features
-✅ Add Tasks to the list  
-✅ Edit Tasks from the list  
-✅ Delete Tasks from the list  
-✅ Real-time statistics  
 
 # 🕹 Technologies  
 - **Frontend**: Flutter  
